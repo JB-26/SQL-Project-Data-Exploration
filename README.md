@@ -5,11 +5,6 @@ The data in this repo is from [Our World In Data](https://ourworldindata.org/cov
 
 # Getting started
 
-There are two options if you want to create the database locally
-
-## Using the tar file
-A `tar` file called `db_backup.tar` is in this repo, this is a backup of the database. Keep in mind that this is a backup of a __postgres__ database. This is in the data folder.
-
 ## Using the CSV files
 This data was initially stored in a Postgres database. The CSV files ending with `_pg` are the files that were used in creating tables.
 
